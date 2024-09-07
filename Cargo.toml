@@ -8,7 +8,7 @@ repository = "https://github.com/nzengi/spawn-wasm-ecdsa"
 documentation = "https://docs.rs/spawn-wasm-ecdsa"
 homepage = "https://github.com/nzengi/spawn-wasm-ecdsa"
 readme = "README.md"
-keywords = ["ECDSA", "WASM", "blockchain", "WebAssembly", "Signature Verification"]
+keywords = ["ECDSA", "WASM", "blockchain", "WebAssembly"]
 categories = ["cryptography", "web-programming"]
 authors = ["nzengi <zenginureddin1@gmail.com>"]
 
