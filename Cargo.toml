@@ -4,12 +4,12 @@ version = "0.1.0"
 edition = "2021"
 description = "A WASM-based ECDSA signature verification library for Web3 developers."
 license = "MIT"
-repository = "https://github.com/nzengi/spawn-wasm-ECDSA"
-documentation = "https://docs.rs/spawn-wasm-ECDSA"
-homepage = "https://github.com/nzengi/spawn-wasm-ECDSA"
+repository = "https://github.com/nzengi/spawn-wasm-ecdsa"
+documentation = "https://docs.rs/spawn-wasm-ecdsa"
+homepage = "https://github.com/nzengi/spawn-wasm-ecdsa"
 readme = "README.md"
 keywords = ["ECDSA", "WASM", "blockchain", "WebAssembly", "Rust", "Signature Verification"]
-categories = ["cryptography", "web-programming", "blockchain"]
+categories = ["cryptography", "web-programming"]
 authors = ["nzengi <zenginureddin1@gmail.com>"]
 
 [dependencies]
