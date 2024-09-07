@@ -27,4 +27,6 @@ crate-type = ["cdylib"]
 wasm-bindgen-test = "0.3"
 
 [package.metadata.docs.rs]
-features = ["default"]
+rustdoc-args = ["--cfg", "docsrs"]
+all-features = true
+no-default-features = false
